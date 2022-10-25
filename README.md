@@ -1,5 +1,10 @@
 Bien le bonjour !
-Well the goodmorning !
+
+Bienvenu dans mon petit monde qui ne cesse de s'agrandir.
+
+Je vous présente ici tout mes travaux que je veux bien vous partager.
+
+Bonne visite !
 
 <!---
 jajalecapouet/jajalecapouet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
