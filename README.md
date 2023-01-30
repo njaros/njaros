@@ -1,10 +1,8 @@
-Bien le bonjour !
-
-Bienvenu dans mon petit monde qui ne cesse de s'agrandir.
+Bonjour,
 
 Je vous présente ici tout mes travaux que je peux vous partager.
 
-Je compte stocker et classer ici tout les algo que j'étudie ou crée.
+Pour le moment tout les travaux ne sont que pédagogique.
 
 Bonne visite !
 
