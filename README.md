@@ -1,10 +1,8 @@
-Bonjour,
+Je suis le repo personnel de Nicolas.  
 
-Je vous présente ici tout mes travaux que je peux vous partager.
+Je ne suis pas présentable, je ne suis pas joli mais je ne suis pas moche non plus.  
 
-Pour le moment tout les travaux ne sont que pédagogique.
-
-Bonne journée !
+Bonne journée !  
 
 <!---
 njaros/njaros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
