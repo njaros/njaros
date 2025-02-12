@@ -1,5 +1,7 @@
 Je suis le repo personnel de Nicolas.  
 
+Tout le contenu 42 a été privatisé par respect de la pédagogie de l'école (on copie pas !)  
+
 Bonne journée !  
 
 <!---
