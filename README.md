@@ -1,4 +1,5 @@
-Ce message est triste car il ne sera jamais lu :'(
+
+I just share my AOC experiences :)
 
 <!---
 njaros/njaros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
