@@ -1,8 +1,4 @@
-Je suis le repo personnel de Nicolas.  
-
-Tout le contenu 42 a été privatisé par respect de la pédagogie de l'école (on copie pas !)  
-
-Bonne journée !  
+Ce message est triste car il ne sera jamais lu :'(
 
 <!---
 njaros/njaros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
